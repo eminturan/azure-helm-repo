@@ -2,7 +2,7 @@ version: dev
 
 image:
   repository: localhost.example.com
-  tag: 1.2.0
+  tag: 1.2.1
 
 service:
   name: deneme-svc
